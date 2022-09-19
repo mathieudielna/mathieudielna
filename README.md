@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mathieudielna
-- 👀 I’m interested in development
-- 🌱 I’m currently learning js, java, php..
-- 💞️ I’m looking to collaborate on …
+- 👀 I’m interested in development and management
+- 🌱 I’m currently learning [js, angular, node]
 - 📫 How to reach me "contact@mathieudielna.fr"
 
 <!---
