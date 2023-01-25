@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mathieudielna
 - 👀 I’m interested in development and management
-- 🌱 I’m currently learning `js`, `Angular`, `node`, `Symphony`, `React-native`, `wordpress`, `spring`
+- 🌱 I’m currently learning `js`, `Angular`, `node`, `Symfony`, `React-native`, `wordpress`, `spring`
 - 📫 How to reach me "contact@mathieudielna.fr"
 
 Backend in my heart, frontend in my **ss, network sometimes.
