@@ -95,6 +95,3 @@ Je fais le pont entre les besoins métier et le code. Chez **Binary System**, je
 
 </details>
 
----
-
-<p align="center"><sub>Portfolio and full CV available on request — online soon.</sub></p>
